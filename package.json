@@ -1,0 +1,27 @@
+{
+  "name": "graphql-tutorial",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ccccccindyy/graphql-tutorial.git"
+  },
+  "author": "xin zhang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ccccccindyy/graphql-tutorial/issues"
+  },
+  "homepage": "https://github.com/ccccccindyy/graphql-tutorial#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.16.2",
+    "express-graphql": "^0.6.11",
+    "graphql": "^0.13.0",
+    "node-fetch": "^2.0.0",
+    "xml2js": "^0.4.19"
+  }
+}
